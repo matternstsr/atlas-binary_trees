@@ -7,13 +7,13 @@
 
 /* binary tree node struct */
 typedef struct binary_tree_s {
-	int n;
-	struct binary_tree_s *parent;
-	struct binary_tree_s *left;
-	struct binary_tree_s *right;
+    int n; /* Node Value */
+    struct binary_tree_s *parent;  /* PTR to parent node */
+    struct binary_tree_s *left;    /* PTR to left child */
+    struct binary_tree_s *right;   /* PTR to right child */
 } binary_tree_t;
 
-/* Function prototypes */
+/* Function prototypes for binary tree operations */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
 
-#endif
+#endif /* BINARY_TREES_H */
