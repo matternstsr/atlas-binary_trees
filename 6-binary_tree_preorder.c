@@ -1,2 +1,1 @@
-/* 6-binary_tree_preorder.c
- */
+/* 6-binary_tree_preorder.c */

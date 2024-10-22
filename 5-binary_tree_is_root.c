@@ -1,2 +1,1 @@
-/* 5-binary_tree_is_root.c
- */
+/* 5-binary_tree_is_root.c */
