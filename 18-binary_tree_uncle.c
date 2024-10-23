@@ -1,5 +1,6 @@
 /* 18-binary_tree_uncle.c */
 #include "binary_trees.h"
+#include "17-binary_tree_sibling.c"
 
 /**
 * binary_tree_uncle - finds the uncle of a node
